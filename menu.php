@@ -42,7 +42,7 @@
                                 </div>
                                 <div class="media-body">
                                   <h4 class="media-heading"><a href="#">Vegan Roasted Beet Dip</a></h4>
-                                  <span class="mu-menu-price">$15.85</span>
+                                  <span class="mu-menu-price">$5.85</span>
                                   <p></p>
                                 </div>
                               </div>
@@ -55,8 +55,8 @@
                                   </a>
                                 </div>
                                 <div class="media-body">
-                                  <h4 class="media-heading"><a href="#">Meal</a></h4>
-                                  <span class="mu-menu-price">$11.95</span>
+                                  <h4 class="media-heading"><a href="#">Spicy Cucumber Salad with Lime Garlic Vinaigrette</a></h4>
+                                  <span class="mu-menu-price">$7.95</span>
                                   <p></p>
                                 </div>
                               </div>
@@ -65,12 +65,12 @@
                               <div class="media">
                                 <div class="media-left">
                                   <a href="#">
-                                    <img class="media-object" src="assets/img/menu/item-1.jpg" alt="img">
+                                    <img class="media-object" src="assets/img/menu/item-3.jpg" alt="img">
                                   </a>
                                 </div>
                                 <div class="media-body">
-                                  <h4 class="media-heading"><a href="#">Meal</a></h4>
-                                  <span class="mu-menu-price">$15.85</span>
+                                  <h4 class="media-heading"><a href="#">Melon Prosciutto Skewers</a></h4>
+                                  <span class="mu-menu-price">$8.85</span>
                                   <p></p>
                                 </div>
                               </div>
@@ -86,12 +86,12 @@
                               <div class="media">
                                 <div class="media-left">
                                   <a href="#">
-                                    <img class="media-object" src="assets/img/menu/item-1.jpg" alt="img">
+                                    <img class="media-object" src="assets/img/menu/item-4.jpg" alt="img">
                                   </a>
                                 </div>
                                 <div class="media-body">
-                                  <h4 class="media-heading"><a href="#">Meal</a></h4>
-                                  <span class="mu-menu-price">$15.85</span>
+                                  <h4 class="media-heading"><a href="#">Beer-Battered Young Coconut Calamari</a></h4>
+                                  <span class="mu-menu-price">$6.12</span>
                                   <p></p>
                                 </div>
                               </div>
@@ -100,12 +100,12 @@
                               <div class="media">
                                 <div class="media-left">
                                   <a href="#">
-                                    <img class="media-object" src="assets/img/menu/item-2.jpg" alt="img">
+                                    <img class="media-object" src="assets/img/menu/item-5.jpg" alt="img">
                                   </a>
                                 </div>
                                 <div class="media-body">
-                                  <h4 class="media-heading"><a href="#">Meal</a></h4>
-                                  <span class="mu-menu-price">$11.95</span>
+                                  <h4 class="media-heading"><a href="#">Spicy Honey Garlic Chicken Wings</a></h4>
+                                  <span class="mu-menu-price">$10.00</span>
                                   <p></p>
                                 </div>
                               </div>
@@ -114,12 +114,12 @@
                               <div class="media">
                                 <div class="media-left">
                                   <a href="#">
-                                    <img class="media-object" src="assets/img/menu/item-1.jpg" alt="img">
+                                    <img class="media-object" src="assets/img/menu/item-6.jpg" alt="img">
                                   </a>
                                 </div>
                                 <div class="media-body">
-                                  <h4 class="media-heading"><a href="#">Meal</a></h4>
-                                  <span class="mu-menu-price">$15.85</span>
+                                  <h4 class="media-heading"><a href="#">Authentic Maryland-Style Crab Cakes</a></h4>
+                                  <span class="mu-menu-price">$9.99</span>
                                   <p></p>
                                 </div>
                               </div>
@@ -369,11 +369,11 @@
                               <div class="media">
                                 <div class="media-left">
                                   <a href="#">
-                                    <img class="media-object" src="assets/img/menu/item-8.jpg" alt="img">
+                                    <img class="media-object" src="assets/img/menu/item-20.jpg" alt="img">
                                   </a>
                                 </div>
                                 <div class="media-body">
-                                  <h4 class="media-heading"><a href="#">Meal</a></h4>
+                                  <h4 class="media-heading"><a href="#">Hot ice cream bread</a></h4>
                                   <span class="mu-menu-price">$11.95</span>
                                   <p></p>
                                 </div>
@@ -383,12 +383,12 @@
                               <div class="media">
                                 <div class="media-left">
                                   <a href="#">
-                                    <img class="media-object" src="assets/img/menu/item-7.jpg" alt="img">
+                                    <img class="media-object" src="assets/img/menu/item-21.jpg" alt="img">
                                   </a>
                                 </div>
                                 <div class="media-body">
-                                  <h4 class="media-heading"><a href="#">Meal</a></h4>
-                                  <span class="mu-menu-price">$15.85</span>
+                                  <h4 class="media-heading"><a href="#">Koulourakia</a></h4>
+                                  <span class="mu-menu-price">$9.38</span>
                                   <p></p>
                                 </div>
                               </div>
@@ -404,12 +404,12 @@
                               <div class="media">
                                 <div class="media-left">
                                   <a href="#">
-                                    <img class="media-object" src="assets/img/menu/item-8.jpg" alt="img">
+                                    <img class="media-object" src="assets/img/menu/item-22.jpg" alt="img">
                                   </a>
                                 </div>
                                 <div class="media-body">
-                                  <h4 class="media-heading"><a href="#">Meal</a></h4>
-                                  <span class="mu-menu-price">$15.85</span>
+                                  <h4 class="media-heading"><a href="#">Chocolate Peanut Bar</a></h4>
+                                  <span class="mu-menu-price">$22.22</span>
                                   <p></p>
                                 </div>
                               </div>
@@ -418,12 +418,12 @@
                               <div class="media">
                                 <div class="media-left">
                                   <a href="#">
-                                    <img class="media-object" src="assets/img/menu/item-7.jpg" alt="img">
+                                    <img class="media-object" src="assets/img/menu/item-23.jpg" alt="img">
                                   </a>
                                 </div>
                                 <div class="media-body">
-                                  <h4 class="media-heading"><a href="#">Meal</a></h4>
-                                  <span class="mu-menu-price">$11.95</span>
+                                  <h4 class="media-heading"><a href="#">PASTEIS DE NATA</a></h4>
+                                  <span class="mu-menu-price">$17.95</span>
                                   <p></p>
                                 </div>
                               </div>
@@ -432,12 +432,12 @@
                               <div class="media">
                                 <div class="media-left">
                                   <a href="#">
-                                    <img class="media-object" src="assets/img/menu/item-8.jpg" alt="img">
+                                    <img class="media-object" src="assets/img/menu/item-24.jpg" alt="img">
                                   </a>
                                 </div>
                                 <div class="media-body">
-                                  <h4 class="media-heading"><a href="#">Meal</a></h4>
-                                  <span class="mu-menu-price">$15.85</span>
+                                  <h4 class="media-heading"><a href="#">LAMINGTONS</a></h4>
+                                  <span class="mu-menu-price">$12.99</span>
                                   <p></p>
                                 </div>
                               </div>
