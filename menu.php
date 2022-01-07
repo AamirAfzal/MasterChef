@@ -143,12 +143,12 @@
                               <div class="media">
                                 <div class="media-left">
                                   <a href="#">
-                                    <img class="media-object" src="assets/img/menu/item-3.jpg" alt="img">
+                                    <img class="media-object" src="assets/img/menu/item-7.jpg" alt="img">
                                   </a>
                                 </div>
                                 <div class="media-body">
-                                  <h4 class="media-heading"><a href="#">Meal</a></h4>
-                                  <span class="mu-menu-price">$15.85</span>
+                                  <h4 class="media-heading"><a href="#">Sushi</a></h4>
+                                  <span class="mu-menu-price">$35.85</span>
                                   <p></p>
                                 </div>
                               </div>
@@ -157,12 +157,12 @@
                               <div class="media">
                                 <div class="media-left">
                                   <a href="#">
-                                    <img class="media-object" src="assets/img/menu/item-4.jpg" alt="img">
+                                    <img class="media-object" src="assets/img/menu/item-8.jpg" alt="img">
                                   </a>
                                 </div>
                                 <div class="media-body">
-                                  <h4 class="media-heading"><a href="#">Meal</a></h4>
-                                  <span class="mu-menu-price">$11.95</span>
+                                  <h4 class="media-heading"><a href="#">Rendang</a></h4>
+                                  <span class="mu-menu-price">$41.32</span>
                                   <p></p>
                                 </div>
                               </div>
@@ -171,12 +171,12 @@
                               <div class="media">
                                 <div class="media-left">
                                   <a href="#">
-                                    <img class="media-object" src="assets/img/menu/item-3.jpg" alt="img">
+                                    <img class="media-object" src="assets/img/menu/item-9.jpg" alt="img">
                                   </a>
                                 </div>
                                 <div class="media-body">
-                                  <h4 class="media-heading"><a href="#">Meal</a></h4>
-                                  <span class="mu-menu-price">$15.85</span>
+                                  <h4 class="media-heading"><a href="#">Ramen</a></h4>
+                                  <span class="mu-menu-price">$29.95</span>
                                   <p></p>
                                 </div>
                               </div>
@@ -192,12 +192,12 @@
                               <div class="media">
                                 <div class="media-left">
                                   <a href="#">
-                                    <img class="media-object" src="assets/img/menu/item-4.jpg" alt="img">
+                                    <img class="media-object" src="assets/img/menu/item-10.jpg" alt="img">
                                   </a>
                                 </div>
                                 <div class="media-body">
-                                  <h4 class="media-heading"><a href="#">Meal</a></h4>
-                                  <span class="mu-menu-price">$15.85</span>
+                                  <h4 class="media-heading"><a href="#">Yakisoba</a></h4>
+                                  <span class="mu-menu-price">$37.75</span>
                                   <p></p>
                                 </div>
                               </div>
@@ -206,12 +206,12 @@
                               <div class="media">
                                 <div class="media-left">
                                   <a href="#">
-                                    <img class="media-object" src="assets/img/menu/item-3.jpg" alt="img">
+                                    <img class="media-object" src="assets/img/menu/item-11.jpg" alt="img">
                                   </a>
                                 </div>
                                 <div class="media-body">
-                                  <h4 class="media-heading"><a href="#">Meal</a></h4>
-                                  <span class="mu-menu-price">$11.95</span>
+                                  <h4 class="media-heading"><a href="#">Satay</a></h4>
+                                  <span class="mu-menu-price">$41.95</span>
                                   <p></p>
                                 </div>
                               </div>
@@ -220,12 +220,12 @@
                               <div class="media">
                                 <div class="media-left">
                                   <a href="#">
-                                    <img class="media-object" src="assets/img/menu/item-4.jpg" alt="img">
+                                    <img class="media-object" src="assets/img/menu/item-12.jpg" alt="img">
                                   </a>
                                 </div>
                                 <div class="media-body">
-                                  <h4 class="media-heading"><a href="#">Meal</a></h4>
-                                  <span class="mu-menu-price">$15.85</span>
+                                  <h4 class="media-heading"><a href="#">Bulgogi</a></h4>
+                                  <span class="mu-menu-price">$55.85</span>
                                   <p></p>
                                 </div>
                               </div>
