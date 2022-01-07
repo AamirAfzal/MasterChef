@@ -15,9 +15,9 @@
           <img src="assets/img/slider/1.jpeg" alt="img">
           <!-- Top slider content -->
           <div class="mu-top-slider-content">
-            <!-- <span class="mu-slider-small-title">Welcome</span>
-            <h2 class="mu-slider-title">To The OsteriaX</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque voluptatem accusamus non quidem, deleniti optio.</p>            -->
+            <span class="mu-slider-small-title" style="color:yellow">Welcome To The</span>
+            <h2 class="mu-slider-title"><span style='color:black'>Master</span><span style='color:#c70303'>Chef</span> Restaurant</h2>
+            <p>The World's Best Restaurant</p>           
             <a href="reservation.php" class="mu-readmore-btn">BOOK A TABLE</a>
           </div>
           <!-- / Top slider content -->
@@ -29,29 +29,14 @@
           <img src="assets/img/slider/2.jpeg" alt="img">
           <!-- Top slider content -->
           <div class="mu-top-slider-content">
-            <!-- <span class="mu-slider-small-title">The Elegant</span>
-            <h2 class="mu-slider-title">Italian Restaurant</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque voluptatem accusamus non quidem, deleniti optio.</p>            -->
-           <a href="reservation.php" class="mu-readmore-btn">BOOK A TABLE</a>
-          </div>
-          <!-- / Top slider content -->
-        </div>
-        <!-- / Top slider single slide --> 
-
-        <!-- Top slider single slide -->
-        <div class="mu-top-slider-single">
-          <img src="assets/img/slider/3.jpeg" alt="img">
-          <!-- Top slider content -->
-          <div class="mu-top-slider-content">
-            <!-- <span class="mu-slider-small-title">Delicious</span>
-            <h2 class="mu-slider-title">Spicy Masalas</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque voluptatem accusamus non quidem, deleniti optio.</p>            -->
+          <span class="mu-slider-small-title" style="color:yellow">World's Most</span>
+            <h2 class="mu-slider-title">Exquisite Cousine</h2>
+            <p>Enjoy the great flavours</p>           
             <a href="reservation.php" class="mu-readmore-btn">BOOK A TABLE</a>
           </div>
           <!-- / Top slider content -->
         </div>
-        <!-- / Top slider single slide -->   
-
+        <!-- / Top slider single slide --> 
       </div>
     </div>
   </section>
@@ -70,7 +55,7 @@
                   <div class="mu-single-counter">
                     <span>Delightful</span>
                     <h3><span class="counter-value" data-count="150">0</span><sup>+</sup></h3>
-                    <p>Appatizers</p>
+                    <p>Appetizers</p>
                   </div>
                 </li>
 
@@ -84,7 +69,7 @@
 
                  <li class="col-md-3 col-sm-3 col-xs-12">
                   <div class="mu-single-counter">
-                    <span>Peacful</span>
+                    <span>Mouth Watering</span>
                      <h3><span class="counter-value" data-count="45">0</span><sup>+</sup></h3>
                     <p>Desserts</p>
                   </div>
@@ -128,8 +113,8 @@
                 <div class="mu-single-gallery col-md-4">
                     <div class="mu-single-gallery-item">
 	                    <figure class="mu-single-gallery-img">
-	                      <a class="mu-imglink" href="assets/img/gallery/6.jpg">
-                          <img alt="img" src="assets/img/gallery/6.jpg">
+	                      <a class="mu-imglink" href="assets/img/gallery/1.jpg">
+                          <img alt="img" src="assets/img/gallery/1.jpg">
                            <div class="mu-single-gallery-info">
                               <img class="mu-view-btn" src="assets/img/plus.png" alt="plus icon img">
                           </div> 
@@ -143,8 +128,8 @@
                 <div class="mu-single-gallery col-md-4">
                   	 <div class="mu-single-gallery-item">
                         <figure class="mu-single-gallery-img">
-                          <a class="mu-imglink" href="assets/img/gallery/6.jpg">
-                            <img alt="img" src="assets/img/gallery/6.jpg">
+                          <a class="mu-imglink" href="assets/img/gallery/2.jpg">
+                            <img alt="img" src="assets/img/gallery/2.jpg">
                              <div class="mu-single-gallery-info">
                                 <img class="mu-view-btn" src="assets/img/plus.png" alt="plus icon img">
                             </div> 
@@ -158,8 +143,8 @@
                 <div class="mu-single-gallery col-md-4">                  
                   	 <div class="mu-single-gallery-item">
                       <figure class="mu-single-gallery-img">
-                        <a class="mu-imglink" href="assets/img/gallery/6.jpg">
-                          <img alt="img" src="assets/img/gallery/6.jpg">
+                        <a class="mu-imglink" href="assets/img/gallery/3.jpg">
+                          <img alt="img" src="assets/img/gallery/3.jpg">
                            <div class="mu-single-gallery-info">
                               <img class="mu-view-btn" src="assets/img/plus.png" alt="plus icon img">
                           </div> 
@@ -173,8 +158,8 @@
                 <div class="mu-single-gallery col-md-4">                  
                   	<div class="mu-single-gallery-item">
                       <figure class="mu-single-gallery-img">
-                        <a class="mu-imglink" href="assets/img/gallery/6.jpg">
-                          <img alt="img" src="assets/img/gallery/6.jpg">
+                        <a class="mu-imglink" href="assets/img/gallery/4.jpg">
+                          <img alt="img" src="assets/img/gallery/4.jpg">
                            <div class="mu-single-gallery-info">
                               <img class="mu-view-btn" src="assets/img/plus.png" alt="plus icon img">
                           </div> 
@@ -188,8 +173,8 @@
                 <div class="mu-single-gallery col-md-4">                  
                   	<div class="mu-single-gallery-item">
                       <figure class="mu-single-gallery-img">
-                        <a class="mu-imglink" href="assets/img/gallery/6.jpg">
-                          <img alt="img" src="assets/img/gallery/6.jpg">
+                        <a class="mu-imglink" href="assets/img/gallery/5.jpg">
+                          <img alt="img" src="assets/img/gallery/5.jpg">
                            <div class="mu-single-gallery-info">
                               <img class="mu-view-btn" src="assets/img/plus.png" alt="plus icon img">
                           </div> 
@@ -218,8 +203,8 @@
                 <div class="mu-single-gallery col-md-4">                  
                   	<div class="mu-single-gallery-item">
                       <figure class="mu-single-gallery-img">
-                        <a class="mu-imglink" href="assets/img/gallery/6.jpg">
-                          <img alt="img" src="assets/img/gallery/6.jpg">
+                        <a class="mu-imglink" href="assets/img/gallery/7.jpg">
+                          <img alt="img" src="assets/img/gallery/7.jpg">
                            <div class="mu-single-gallery-info">
                               <img class="mu-view-btn" src="assets/img/plus.png" alt="plus icon img">
                           </div> 
@@ -233,8 +218,8 @@
                 <div class="mu-single-gallery col-md-4">                  
                   	<div class="mu-single-gallery-item">
                       <figure class="mu-single-gallery-img">
-                        <a class="mu-imglink" href="assets/img/gallery/6.jpg">
-                          <img alt="img" src="assets/img/gallery/6.jpg">
+                        <a class="mu-imglink" href="assets/img/gallery/8.jpg">
+                          <img alt="img" src="assets/img/gallery/8.jpg">
                            <div class="mu-single-gallery-info">
                               <img class="mu-view-btn" src="assets/img/plus.png" alt="plus icon img">
                           </div> 
@@ -248,8 +233,8 @@
                 <div class="mu-single-gallery col-md-4">                  
                   	<div class="mu-single-gallery-item">
                       <figure class="mu-single-gallery-img">
-                        <a class="mu-imglink" href="assets/img/gallery/6.jpg">
-                          <img alt="img" src="assets/img/gallery/6.jpg">
+                        <a class="mu-imglink" href="assets/img/gallery/9.jpg">
+                          <img alt="img" src="assets/img/gallery/9.jpg">
                            <div class="mu-single-gallery-info">
                               <img class="mu-view-btn" src="assets/img/plus.png" alt="plus icon img">
                           </div> 
