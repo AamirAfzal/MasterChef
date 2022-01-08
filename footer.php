@@ -13,7 +13,7 @@
             <a href="#"><span class="fa fa-youtube"></span></a>
           </div>
           <div class="mu-footer-copyright">
-            <p>&copy; Copyright <a rel="nofollow" href="http://markups.io"></a>. All right reserved.</p>
+            <p>It is a demonstration website developed as an educational exercise and that it incorporates text and media from Wikipedia under the creative commons licence. &copy; Copyright <a rel="nofollow" href="http://markups.io"></a>. All right reserved.</p>
           </div>         
         </div>
       </div>
@@ -36,7 +36,6 @@
   <script type="text/javascript" src="assets/js/bootstrap-datepicker.js"></script> 
   <!-- Ajax contact form  -->
   <script type="text/javascript" src="assets/js/app.js"></script>
- 
   <!-- Custom js -->
   <script src="assets/js/custom.js"></script> 
 
